@@ -110,4 +110,4 @@ public class Calculator {
 	public void setClearText(boolean clearText) {
 		this.clearText = clearText;
 	}
-}
+} //Änderung wird eingefügt

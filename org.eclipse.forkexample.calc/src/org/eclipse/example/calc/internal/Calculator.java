@@ -41,6 +41,7 @@ public class Calculator {
 		new Minus();
 		new Plus();
 		new Square();
+		// end my operation
 	}
 
 	private void calculate(String cmdName) {
